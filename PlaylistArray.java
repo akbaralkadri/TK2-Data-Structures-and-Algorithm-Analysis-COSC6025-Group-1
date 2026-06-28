@@ -1,5 +1,5 @@
 /*
- * Tugas Kelompok 1 - Data Structures and Algorithm Analysis (COSC6025)
+ * Tugas Kelompok 2 - Data Structures and Algorithm Analysis (COSC6025)
  * Group 1 : 
  * DANISCH ASWANDA MAULANA SUBKHAN (2902772113)
  * JUSTIN DERYL FERDINAND (2902786781)
